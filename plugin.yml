@@ -1,0 +1,6 @@
+---
+name: MineOre
+version: 1.0.0
+main: GodWeedZao\MineOre\Main
+api: 3.0.0
+...
